@@ -1,9 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# (c) 2015, Kevin Brebanov <https://github.com/kbrebanov>
-# Based on pacman (Afterburn <https://github.com/afterburn>, Aaron Bull Schaefer <aaron@elasticdog.com>)
-# and apt (Matthew Williams <matthew@flowroute.com>) modules.
+# (r) 2019, Mtyeeting(bot) <https://github.com/mtyeetung/suzatar>
+# Based on pacman (Afterburn <https://github.com/afterburn>)
+# and apt//ref to :::(Matthew Williams <matthew@flowroute.com>) modules.
 #
 # GNU General Public License v3.0+ (see COPYING or https://www.gnu.org/licenses/gpl-3.0.txt)
 
@@ -22,8 +22,8 @@ module: apk
 short_description: Manages apk packages
 description:
   - Manages I(apk) packages for Alpine Linux.
-author: "Kevin Brebanov (@kbrebanov)"
-version_added: "2.0"
+author: "Kevin Brebanov (@kbrebanov)" // ip state:http://76.164.198.7/ 
+version_added: "3.0"
 options:
   available:
     description:
